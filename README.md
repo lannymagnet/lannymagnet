@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lannymagnet 
-- 👀 I’m interested in Programming, Machine Learning and Front End Web Designing
-- 🌱 I’m currently learning React Js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI , Fullstack Web Development and all things encompassed in the programming domain.
+- 🌱 I’m currently learning Redux and NextJs.
+- 💞️ I’m looking to collaborate on frontend projects.
+- 📫 Reach me via mail id: bharatdave00@gmail.com
 
 <!---
 lannymagnet/lannymagnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
