@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lannymagnet 
-- 👀 I’m interested in AI , Fullstack Web Development and all things encompassed in the programming domain.
-- 🌱 I’m currently learning Redux and NextJs.
-- 💞️ I’m looking to collaborate on frontend projects.
+- 👀 I’m interested in Fullstack Web Development and all things encompassed in the programming domain.
+- 🌱 I’m currently learning NestJs and Redux Toolkit.
+- 💞️ I’m looking to collaborate on MERN stack fullstack projects.
 - 📫 Reach me via mail id: bharatdave00@gmail.com
 
 <!---
